@@ -55,7 +55,7 @@ The goal is to predict whether a person has diabetes (`Outcome = 1`) or not (`Ou
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/diabetes-prediction.git
+git clone https://github.com/adityachaudhary0/Diabetes-predicter.git
 cd diabetes-prediction
 2️⃣ Install dependencies
 pip install -r requirements.txt
